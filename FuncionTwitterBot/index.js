@@ -3,4 +3,4 @@ module.exports = async function (context, req) {
     context.res = {
         body: "Bibble wibble wobble"
     };
-};
+}; 
